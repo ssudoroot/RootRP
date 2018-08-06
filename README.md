@@ -23,8 +23,8 @@ OR
 
 ## Credits
 
-Root
-Seb Rodriguez
+1. Root
+2. Seb Rodriguez
 
 ## License
 
