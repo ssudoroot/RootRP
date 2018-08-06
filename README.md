@@ -1,7 +1,7 @@
-[logo]: https://i.imgur.com/roLQCGh.jpg "RootRP"
 # RootRP
 
 RootRP Public Development, Used For Public Contribution. 
+[logo]: https://i.imgur.com/roLQCGh.jpg "RootRP"
 
 ## Public
 
