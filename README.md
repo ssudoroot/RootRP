@@ -1,8 +1,7 @@
 # RootRP
 
 RootRP Public Development, Used For Public Contribution. 
-Logo:
-![alt text](https://i.imgur.com/roLQCGh.jpg "RootRP)
+![alt text](https://i.imgur.com/roLQCGh.jpg)
 
 ## Public
 
