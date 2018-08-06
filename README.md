@@ -1,3 +1,4 @@
+[logo]: https://i.imgur.com/roLQCGh.jpg "RootRP"
 # RootRP
 
 RootRP Public Development, Used For Public Contribution. 
@@ -18,8 +19,9 @@ NOTE: Only for public contribution nothing else.
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-⋅⋅OR
-1. Create an issue with the exact line and code to change then I will review and edit.
+
+⋅⋅⋅OR
+* Just create an issue with the exact line and code to change then I will review and edit.
 
 ## Credits
 
