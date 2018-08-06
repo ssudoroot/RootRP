@@ -5,12 +5,14 @@ RootRP Public Development, Used For Public Contribution.
 
 ## Public
 
-Please use this repo to look at the code and audit, this is so you and other players will have a better experience, anyone who audits this will recive something in return when official release is ready.
+Please use this repo to look at the code and audit, this is so you and other players will have a better experience.
+###### NOTE: Anyone who audits this will recive something in return when official release is ready.
 
 ## Usage
 
+##### RootRP/configs/sh_english.lua:
 This is for RootRP's Language file, when this is updated the language is also updated.
-NOTE: Only for public contribution nothing else.
+###### NOTE: Only for public contribution nothing else.
 
 ## Contributing
 
